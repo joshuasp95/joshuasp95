@@ -1,6 +1,6 @@
 <div class="header" align="center">
     <img src="https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif" alt="giphygiff" width="200">
-    <h1 align="center">- 👋 Hi, I’m @joshuasp95</h1>
+    <h1 align="center">👋 Hi, I’m @joshuasp95</h1>
     <h3 align="center">Most of my academic life has been focused within Scientific-Technological field on the
         Environmental field, however, upon discovering new digital technologies and seeing their potential, I wanted to
         combine both disciplines.</h3>
