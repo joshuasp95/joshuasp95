@@ -7,7 +7,7 @@
     <h3 align="center"> Techniques such as Database Manipulation, Statistics, Process Automation or the Preparation of
         Cartographic Maps, among others, are the ones to which he devoted the most attention and are included within
         Geoinformatics and Geospatial Analysis.</h3>
-    <h3 align="center">🌱 I’m currently learning Web Development usign HTML, CSS, Javascript, Java & SQL.</h3>
+    <h3 align="center">🌱 I’m currently learning Web Development usign HTML, CSS, Javascript, PHP, Java & SQL.</h3>
     <h3 align="center">📫 You cand find me on my personal website www.joshuasainzweb.com or Linkedin
         (www.linkedin.com/in/joshua-sainz-palacios-791688186)</h3>
 </div class="header">
