@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(227, 225, 225);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(27, 96, 100);
+}
+#container1 {
+  width: 100%;
+  height: 35em;
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+}
+header {
+  /* border: 5px solid darkgoldenrod; */
+  border-radius: 5px;
+  padding: 0.5em;
+}
+
+h1 {
+  /* background-color: lightcoral; */
+  text-align: center;
+  font-size: 5em;
+  padding: 0.5em;
+  border-radius: 50px;
+  letter-spacing: 0.1em;
+  color: rgb(27, 96, 100);
+}
+
+h1:hover {
+  color: rgb(192, 142, 41);
+}
+
+section {
+  /* background-color: rgb(82, 40, 82); */
+  /* color: rgb(135, 125, 60); */
+
+  height: 50em;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+}
+
+article {
+  /* margin: 5em 0; */
+  width: 100%;
+  height: 30em;
+
+  text-align: center;
+  border-top: 5px solid rgb(76, 74, 74);
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+}
+
+article:hover {
+  /* background-color: rgba(202, 120, 56, 0.854); */
+  color: rgb(167, 111, 38);
+}
+article h2 {
+  margin-bottom: 0.5em;
+  font-size: 2em;
+}
+article p {
+  margin-top: 0.5em 0;
+  width: 30em;
+  /* border: 1px solid black; */
+  font-size: 1.3em;
+}
+article:last-child{
+  border-bottom: 5px solid rgb(76, 74, 74);
+
+}
+footer {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+
+  /* height: 5em; */
+  margin-top: 1em;
+  padding: 1em;
+}
