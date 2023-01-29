@@ -1,0 +1,146 @@
+:root {
+    --color-primario: #181818;
+    --color-secundario: #f0f0f0;
+
+    /* TIPOGRAFIA */
+
+    --tipo-principal: Helvetica, Arial, sans-serif;
+    --tipo-secundario: Verdana;
+
+
+}
+
+/* DARK MODEE */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-primario: #f0f0f0;
+        --color-secundario: #181818;
+        ;
+
+    }
+}
+
+/* ALTO CONTRASTE */
+
+@media (prefers-contrast: high) {
+    :root {
+        --color-primario: black;
+        --color-secundario: #fff;
+    }
+}
+
+
+/* ANIMACIONES  */
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation: none;
+        transition: none;
+    }
+}
+
+/* reseat margins */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box; 
+    vertical-align: baseline;
+}
+/* EVITAR PROBLEMAS CON IMAGENES */
+
+img, picture, video, iframe, figure{
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+
+    /* opcional */ object-fit: cover;
+    /* opcional */ object-position: center center;
+}
+/* ENLACES COMO CAJAS */
+a{
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+/* MENOS LOS ENLACES DENTRO DE PARRAFOS */
+p a{
+    display: inline;
+}
+/* ELIMINAR PUNTOS DE LISTAS */
+li {
+    list-style-type: none;
+}
+
+/* ANCLAS SUAVES */
+
+html{
+    scroll-behavior: smooth;
+}
+
+/* DESACTIVAR ESTILOS POR DEFECTO  */
+h1, h2, h3, h4, h5, h6, p, span, a, strong, i, b, u, em, blockquote{
+    font-size: 1em;
+    font-weight: inherit;
+    font-style: inherit;
+    text-decoration: none;
+    color: inherit;
+}
+
+/* EVITAR PROBLEMAS CON PSEUDOELEMENTOS */
+
+blockquote::before, blockquote::after, q::after, q::before{
+    content: '';
+    content: none;
+}
+
+/* Configurar el seleccionado del texto */
+
+::selection{
+    background-color: var(--color-primario);
+    color: var(--color-secundario);
+}
+
+/* NIVELAR PROBLEMAS DE TIPOFRAFIAS Y COLOCACION DE FORMULARIOS */
+
+form, input, textarea, select, button, label{
+    font-family: inherit;
+    font-size: inherit;
+    --webkit-hyphens: auto;
+            hyphens: auto;
+    background-color: transparent;
+    display: flex;
+    color: inherit;
+
+    /* opcional appearance: none; */
+}
+
+/* JUNTAR TABLAS */
+table, tr, td {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+svg{
+    width: 100%;
+    display: block;
+    fill: currentColor;
+}
+
+/* TIPOGRAFIA PARA TODA LA WEB */
+
+body{
+    min-height: 100vh;
+    font-size: 100%;
+    font-family: var(--tipo-principal);
+    background-color: var(--color-primario);
+    /* opcional */line-height: 1.4em; 
+    /* opcional */ hyphens: auto;
+    font-smooth: always;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: var(--color-secundario);
+    cursor: none;
+}
+
