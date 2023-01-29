@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="shortcut icon" href="Imagenes/book-2389229_640.png" type="image/x-icon">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Josh Website</title>
+    <link rel="stylesheet" type="text/css" href="css/estilos.css" />
+    <link rel="stylesheet" type="text/css" href="css/ResetJSWeb.css" />
+    <link rel="stylesheet" href="css/mediaQuery.css">
+    <script defer src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+    <script defer src="scripts/app.js"></script>
+</head>
+
+<body>
+    <header class="header">
+        <nav class="nav">
+            <ul class="ul">
+                <li class="li"><a href="#inicio" title="Inicio" class="a">Home</a></li>
+                <li class="li"><a href="#works" title="Works" class="a">Works</a></li>
+                <li class="li"><a href="#about" title="About" class="a">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="cursor"></div>
+    <div class="circulos">
+        <svg class="circulo circulo1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+            <path class="path"
+                d="M49.7,-29.8C59.1,-12.4,57.7,10,47.6,32.4C37.5,54.8,18.8,77.1,-3.5,79.1C-25.8,81.2,-51.6,62.9,-65.7,38.2C-79.8,13.5,-82.3,-17.7,-69.4,-37.1C-56.5,-56.5,-28.2,-64.2,-4,-61.8C20.2,-59.5,40.3,-47.2,49.7,-29.8Z"
+                transform="translate(100 100)" />
+        </svg>
+        <svg class="circulo circulo2" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+            <path class="path"
+                d="M43.3,-61.2C57,-49.6,69.7,-38.2,72.2,-24.8C74.7,-11.4,67,3.9,60.6,18.5C54.2,33,49.1,46.8,39.2,57.4C29.3,67.9,14.7,75.3,0.3,74.9C-14.1,74.4,-28.1,66.2,-38.6,55.9C-49.1,45.5,-56,33,-61.8,19.1C-67.6,5.3,-72.3,-9.9,-69,-23.1C-65.6,-36.4,-54.3,-47.7,-41.4,-59.6C-28.6,-71.4,-14.3,-83.8,0.2,-84.1C14.8,-84.5,29.6,-72.8,43.3,-61.2Z"
+                transform="translate(100 100)" />
+        </svg>
+        <svg class="circulo circulo3" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+            <path class="path"
+                d="M29.7,-36.4C36.4,-29.7,38.4,-18.4,46.9,-3.3C55.5,11.7,70.5,30.6,64.9,34.9C59.3,39.2,33.1,29,16.6,27C0.1,24.9,-6.7,31,-13.1,30.9C-19.5,30.8,-25.6,24.5,-27.3,17.6C-29,10.8,-26.4,3.3,-29.4,-9.5C-32.3,-22.3,-40.7,-40.4,-36.7,-47.6C-32.7,-54.9,-16.4,-51.2,-2.4,-48.3C11.5,-45.4,22.9,-43.2,29.7,-36.4Z"
+                transform="translate(100 100)" />
+        </svg>
+        <svg class="circulo circulo4" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+            <path class="path"
+                d="M30.6,15.8C19.2,37.5,-24.7,38.6,-35.3,17.4C-45.8,-3.8,-22.9,-47.3,-0.9,-47.8C21,-48.3,42.1,-5.9,30.6,15.8Z"
+                transform="translate(100 100)" />
+        </svg>
+    </div>
+    <div class="seccion" id="inicio">
+        <main class="main">
+            <section class="section info">
+                <h2 class="h2">Joshua Sainz Palacios</h2>
+                <h3 class="h3">Full Amateur Developer</h3>
+                <ul class="ul">
+                    <li class="li">
+                        <a target="_blank" href="https://www.linkedin.com/in/joshua-sainz-palacios-791688186/" class="a"
+                            title="Linkedin">Linkedin</a>
+                    </li>
+                    <li class="li">
+                        <a target="_blank" href="https://github.com/joshuasp95" class="a" title="Github">Github</a>
+                    </li>
+                </ul>
+            </section>
+    </div>
+    <section class="seccion works" id="works">
+        <h2 class="h2">Software Development</h2>
+        <p class="p">Examples of tiny programs I developed with HTML, CSS & JavaScript</p>
+        <div class="grid">
+            <article class="article">
+                <a class="a" href="html/cuadro.html" title="Trabajo1">
+                    <figure class="figure"><img src="Imagenes/brocha.jpg" alt="Imagen" class="img" loading="lazy">
+                    </figure>
+                    <h4 class="h4">Draw a Picture!</h4>
+                </a>
+            </article>
+            <article class="article">
+                <a class="a" href="html/snake.html" title="Trabajo1">
+                    <figure class="figure"><img src="Imagenes/snake.jpg" alt="Imagen" class="img" loading="lazy">
+                    </figure>
+                    <h4 class="h4">Snake Game</h4>
+                </a>
+            </article>
+            <article class="article">
+                <a class="a" href="html/mapa.html" title="Trabajo1">
+                    <figure class="figure"><img src="Imagenes/mapa.png" alt="Imagen" class="img"
+                            loading="lazy">
+                    </figure>
+                    <h4 class="h4">Look the Weather!</h4>
+                </a>
+            </article>
+        </div>
+    </section>
+    <section class="seccion about" id="about">
+        <h2 class="h2">About me</h2>
+        <p class="p">Most of my academic life has been focused within Scientific-Technological field on the
+            environmental field, however, upon discovering new digital technologies and seeing their potential, I wanted
+            to combine both disciplines.</p>
+        <p class="p">Techniques such as Database Manipulation, Statistics, Process Automation or the Preparation of
+            Cartographic Maps, among others, are the ones to which I devoted the most attention and are included within
+            Geoinformatics and Geospatial Analysis.</p>
+        <p class="p">In short, I wish to apply the potential of Information and Communication Technologies to the
+            environmental field because I think they can play an important role innovating and improving nature and its
+            resources.</p>
+        <ul class="ul">
+            <li class="li">
+                <a href="https://www.instagram.com/joshuansp95/" class="a" title="Nombre" target="_blank"
+                    rel="noopener noreferrer">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="svg"
+                        viewBox="0 0 16 16">
+                        <path
+                            d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z" />
+                    </svg>
+                </a>
+            </li>
+            <li class="li">
+                <a href="https://www.linkedin.com/in/joshua-sainz-palacios-791688186/" class="a" title="Nombre"
+                    target="_blank" rel="noopener noreferrer">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="svg"
+                        viewBox="0 0 16 16">
+                        <path
+                            d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z" />
+                    </svg>
+                </a>
+            </li>
+            <li class="li">
+                <a href="https://github.com/joshuasp95" class="a" title="Nombre" target="_blank"
+                    rel="noopener noreferrer">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="svg"
+                        viewBox="0 0 16 16">
+                        <path
+                            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z" />
+                    </svg>
+                </a>
+            </li>
+        </ul>
+    </section>
+    </main>
+    <footer class="footer">
+        <span class="span">Website made by Joshua Sainz Palacios</span>
+    </footer>
+
+</body>
+
+</html>
+
+
+
+<!-- https://img.freepik.com/foto-gratis/programador-guapo-trabajando-laptop_176420-21105.jpg?t=st=1658182890~exp=1658183490~hmac=6b997aae9630c3d1bfdf7a9788b5b19049290392a64d4cc4d226876762d7fcde&w=1380 -->
+
+<!-- https://img.freepik.com/foto-gratis/trabajadores-empresa-ti-que-trabajan-computadora_1303-19428.jpg?t=st=1658182890~exp=1658183490~hmac=55515c45f501880770739457efcf49ff03cbd1ddd4e0bc1327f6f8ee436984e2&w=1380 -->
+
+<!-- https://img.freepik.com/foto-gratis/hombre-feliz-escribiendo-correo-positivo-al-cliente_1163-3986.jpg?t=st=1658182890~exp=1658183490~hmac=87f56c969cc17410383ee3431d4178c5c65499a92bdfe44f67493ddbcee89e66&w=1380 -->
+
+<!-- https://img.freepik.com/foto-gratis/imagen-primer-plano-programador-trabajando-su-escritorio-oficina_1098-18707.jpg?t=st=1658182890~exp=1658183490~hmac=87b63272b966a938757e22de997014f57bb6b2100a9905464b5b400f11f33800&w=1380 -->
