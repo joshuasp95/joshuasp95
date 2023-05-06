@@ -26,5 +26,5 @@ Techniques such as Database Manipulation, Statistics, Process Automation, and th
 
 ### Languages and Tools Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuasp95&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuasp95&layout=compact&langs_count=8)
 
