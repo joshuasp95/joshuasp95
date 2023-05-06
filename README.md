@@ -16,7 +16,7 @@ Techniques such as Database Manipulation, Statistics, Process Automation, and th
 
 **Feel Free to Get in Touch:**
 
-[Personal website](https://www.joshuasainzweb.com) | [LinkedIn](https://www.linkedin.com/in/joshua-sainz-palacios-791688186/) | [Email](mailto:joshuasainz95@gmail.com)
+[Personal website](http://www.joshuasainzweb.com) | [LinkedIn](https://www.linkedin.com/in/joshua-sainz-palacios-791688186/) | [Email](mailto:joshuasainz95@gmail.com)
 
 ---
 
