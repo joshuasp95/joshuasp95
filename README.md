@@ -1,10 +1,13 @@
-# Hi there! Welcome to my GitHub profile. 
-
+# Hi there! Welcome to my GitHub profile
+<img align="right" width="350px" height="350px" alt="Satellite Earth GIF" src="https://media.giphy.com/media/3ohs873OdgNQGu017G/giphy.gif">
+<div align="left">
 I'm Joshua Sainz Palacios, an Environmental Science enthusiast who loves exploring the potential of digital technologies. 😄
+</br><br>
 
 Most of my academic life has been focused within the Scientific-Technological field in the Environmental field. However, upon discovering new digital technologies and seeing their potential, I wanted to combine both disciplines.
 
 Techniques such as Database Manipulation, Statistics, Process Automation, and the Preparation of Cartographic Maps, among others, are the ones to which I devote the most attention and are included within Geoinformatics and Geospatial Analysis.
+</div>
 
 ---
 
@@ -16,7 +19,10 @@ Techniques such as Database Manipulation, Statistics, Process Automation, and th
 
 **Feel Free to Get in Touch:**
 
-[Personal website](http://www.joshuasainzweb.com) | [LinkedIn](https://www.linkedin.com/in/joshua-sainz-palacios-791688186/) | [Email](mailto:joshuasainz95@gmail.com)
+[![Personal website](https://img.icons8.com/fluent/48/000000/domain.png)](https://www.joshuasainzweb.com)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/joshua-sainz-palacios-791688186/)
+[![Email](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:joshuasainz95@gmail.com)
+
 
 ---
 
