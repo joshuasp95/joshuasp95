@@ -6,7 +6,7 @@ I'm Joshua Sainz Palacios, an Environmental Science enthusiast who loves explori
 
 Most of my academic life has been focused within the Scientific-Technological field in the Environmental field. However, upon discovering new digital technologies and seeing their potential, I wanted to combine both disciplines.
 
-Techniques such as Database Manipulation, Statistics, Process Automation, and the Preparation of Cartographic Maps, among others, are the ones to which I devote the most attention and are included within Geoinformatics and Geospatial Analysis.
+Techniques such as Remote Sensing, Database Manipulation, Statistics, Process Automation, among others, combining them with amazing Python libraries such as GDAL, rasterio, numpy, matplotlib... are the ones to which I devote the most attention and are included within Geoinformatics and Geospatial Analysis.
 </div>
 
 ---
