@@ -19,7 +19,7 @@ Techniques such as Remote Sensing, Database Manipulation, Statistics, Process Au
 
 **Feel Free to Get in Touch:**
 
-[![Personal website](https://img.icons8.com/fluent/48/000000/domain.png)](https://www.joshuasainzweb.com)
+[![Personal website](https://img.icons8.com/fluent/48/000000/domain.png)](http://www.joshuasainzweb.com)
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/joshua-sainz-palacios-791688186/)
 [![Email](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:joshuasainz95@gmail.com)
 
