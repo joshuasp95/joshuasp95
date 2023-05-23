@@ -32,5 +32,5 @@ Techniques such as Remote Sensing, Database Manipulation, Statistics, Process Au
 
 ### Languages and Tools Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuasp95&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuasp95&layout=compact&langs_count=6)
 
