@@ -6,16 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I am a backend developer who works primarily with the Java ecosystem, leveraging Spring Framework and Hibernate to maintain and extend complex codebases. My responsibilities include resolving defects, optimizing SQL queries, and progressively refactoring legacy components into well‑structured, REST‑oriented services.
-
-Each day begins in Jira, where I prioritise tickets, estimate tasks, and coordinate with colleagues. I then move to GitLab or GitHub for code reviews, branch management, and the orchestration of CI/CD pipelines.
-
-I employ Docker to containerise applications and rely on Bash scripts and Crontab to automate routine operations. For service integration, I design and maintain Apache Kafka pipelines that synchronise microservices and create lightweight services whenever new requirements arise.
-
-Deployments are managed through GitLab CI/CD—supplemented by Jenkins when appropriate—and I routinely monitor Grafana dashboards and Prometheus alerts to identify and address performance or configuration issues at an early stage.
-
-Before specialising in web development, I earned a degree in Environmental Sciences with a focus on GIS. I still experiment with Python and geospatial tools on personal projects, yet my main commitment is to producing clean, maintainable backend code and continually expanding my technical expertise.
-
+Java backend dev here.
 
 
 ## 🛠️ Technical Skills
