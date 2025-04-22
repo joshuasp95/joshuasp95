@@ -8,8 +8,6 @@
 
 Backend Developer with experience in Java, Spring Framework, Hibernate, and Docker, specialized in developing scalable applications, microservices integration, and REST APIs. Proficient in system integration with Apache Kafka and process automation using scripting (Bash, Crontab). Skilled in deployment through Docker and CI/CD with GitLab and Jenkins, as well as monitoring with Grafana and Prometheus. Proactive, results-oriented, with experience in agile environments using Jira and GitHub.
 
-I combine my environmental science background with tech skills to create innovative solutions for ecological challenges through programming and data analysis.
-
 
 ## 🛠️ Technical Skills
 
