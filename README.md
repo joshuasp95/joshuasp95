@@ -4,9 +4,18 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNsYzhmbnJ1dGVkbzdkOWwyZ21xdmlkazg4OGlybWJ1ejFjb3Z0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300px" alt="Earth GIF">
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Backend Developer with experience in Java, Spring Framework, Hibernate, and Docker, specialized in developing scalable applications, microservices integration, and REST APIs. Proficient in system integration with Apache Kafka and process automation using scripting (Bash, Crontab). Skilled in deployment through Docker and CI/CD with GitLab and Jenkins, as well as monitoring with Grafana and Prometheus. Proactive, results-oriented, with experience in agile environments using Jira and GitHub.
+I am a backend developer who works primarily with the Java ecosystem, leveraging Spring Framework and Hibernate to maintain and extend complex codebases. My responsibilities include resolving defects, optimizing SQL queries, and progressively refactoring legacy components into well‑structured, REST‑oriented services.
+
+Each day begins in Jira, where I prioritise tickets, estimate tasks, and coordinate with colleagues. I then move to GitLab or GitHub for code reviews, branch management, and the orchestration of CI/CD pipelines.
+
+I employ Docker to containerise applications and rely on Bash scripts and Crontab to automate routine operations. For service integration, I design and maintain Apache Kafka pipelines that synchronise microservices and create lightweight services whenever new requirements arise.
+
+Deployments are managed through GitLab CI/CD—supplemented by Jenkins when appropriate—and I routinely monitor Grafana dashboards and Prometheus alerts to identify and address performance or configuration issues at an early stage.
+
+Before specialising in web development, I earned a degree in Environmental Sciences with a focus on GIS. I still experiment with Python and geospatial tools on personal projects, yet my main commitment is to producing clean, maintainable backend code and continually expanding my technical expertise.
+
 
 
 ## 🛠️ Technical Skills
