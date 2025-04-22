@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Java backend dev here.
+Just java, what else.
 
 
 ## 🛠️ Technical Skills
