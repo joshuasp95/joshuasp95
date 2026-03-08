@@ -64,4 +64,4 @@ Just java, what else. :coffee:
 
 [![Top Langs](https://joshuasp95-github-readme-stats.vercel.app/api/top-langs/?username=joshuasp95&layout=compact&theme=radical)](https://github.com/joshuasp95)
 
-![Languages](./metrics.plugin.languages.svg)
+![Isometric commit calendar](./metrics.plugin.isocalendar.svg)
