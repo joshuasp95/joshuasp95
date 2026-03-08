@@ -60,8 +60,8 @@ Just java, what else. :coffee:
 
 ## 📊 GitHub Stats
 
-![Joshua's GitHub stats](https://joshuasp95-github-readme-stats.vercel.app/api?username=joshuasp95&show_icons=true&theme=radical)
+![Joshua's GitHub stats](https://joshuasp95-github-readme-stats.vercel.app/api?username=joshuasp95&show_icons=true)
 
-[![Top Langs](https://joshuasp95-github-readme-stats.vercel.app/api/top-langs/?username=joshuasp95&layout=compact&theme=radical)](https://github.com/joshuasp95)
+[![Top Langs](https://joshuasp95-github-readme-stats.vercel.app/api/top-langs/?username=joshuasp95&layout=compact)](https://github.com/joshuasp95)
 
 ![Isometric commit calendar](./metrics.plugin.isocalendar.svg)
