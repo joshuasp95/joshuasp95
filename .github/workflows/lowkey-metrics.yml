@@ -1,0 +1,26 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 2 1/7 * 6"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: generate language metrics
+        uses: joshuasp95/metrics@master
+        with:
+          token: ${{ secrets.metrics_token }}
+          user: joshuasp95
+          filename: metrics.plugin.languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: percentage
